@@ -37,14 +37,19 @@ export const LinksArray = [
     to: "/",
   },
   {
-    label: "Kardex",
-    icon: <v.iconocategorias />,
+    label: "Elementos",
+    icon: <v.iconoElement />,
     to: "/kardex",
   },
   {
     label: "Reportes",
     icon: <v.iconoreportes />,
     to: "/reportes",
+  },
+  {
+    label: "Usuarios",
+    icon: <AiOutlineSetting />,
+    to: "/usuario",
   },
  
 ];
@@ -54,6 +59,7 @@ export const SecondarylinksArray = [
     icon: <AiOutlineSetting />,
     to: "/configurar",
   },
+ 
 
 ];
 //temas
