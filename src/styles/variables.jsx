@@ -1,37 +1,20 @@
-import { CiPalette } from "react-icons/ci";
-import { BsEmojiLaughing } from "react-icons/bs";
-import { RiDeleteBin2Line, RiEditLine } from "react-icons/ri";
-import { IoIosArrowDown } from "react-icons/io";
-import { RiVipCrownFill } from "react-icons/ri";
-import { BiUserCircle } from "react-icons/bi";
-import { RiSettings3Line } from "react-icons/ri";
-import { MdExitToApp } from "react-icons/md";
+import { CiPalette, CiMoneyBill } from "react-icons/ci";
+import { BsEmojiLaughing, BsArrowDown, BsArrowUpShort, BsGoogle, BsQuestionCircle, BsBarChartLine, BsCalendarCheck} from "react-icons/bs";
+import { RiDeleteBin2Line, RiEditLine, RiVipCrownFill, RiSettings3Line, RiCloseLine, RiLockPasswordLine, RiStockLine } from "react-icons/ri";
+import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
+import { BiUserCircle, BiSave, BiBellMinus } from "react-icons/bi";
+import { MdExitToApp, MdOutlineBorderAll, MdAlternateEmail, MdDriveFileRenameOutline, MdOutlineCategory } from "react-icons/md";
 import { FcPicture } from "react-icons/fc";
 import { CgMathPlus } from "react-icons/cg";
-import { TbBrandSupabase } from "react-icons/tb";
-import { FaReact } from "react-icons/fa";
-import { BsArrowDown, BsArrowUpShort } from "react-icons/bs";
-import { FaBalanceScale } from "react-icons/fa";
+import { TbBrandSupabase, TbBrandBitbucket, TbReportAnalytics } from "react-icons/tb";
+import { FaReact, FaBalanceScale, FaRegMoneyBillAlt, FaBuilding } from "react-icons/fa";
 import logo from "../assets/inventarioslogo.png";
-import { BsGoogle } from "react-icons/bs";
-import { RiCloseLine } from "react-icons/ri";
-import { BiSave } from "react-icons/bi";
-import { BsQuestionCircle } from "react-icons/bs";
 import { HiOutlineChartPie } from "react-icons/hi";
 import { SlGraph } from "react-icons/sl";
-import { BsBarChartLine } from "react-icons/bs";
-import { AiOutlineCalculator } from "react-icons/ai";
-import { BsCalendarCheck } from "react-icons/bs";
-import {IoIosArrowForward} from "react-icons/io"
+import { AiOutlineCalculator, AiOutlineBarcode } from "react-icons/ai";
 import {GrFormPrevious,GrCaretNext} from "react-icons/gr"
-import {MdOutlineBorderAll} from "react-icons/md"
-import { MdAlternateEmail } from "react-icons/md";
-import {RiLockPasswordLine} from "react-icons/ri"
-import {MdDriveFileRenameOutline} from "react-icons/md"
-import {RiStockLine} from "react-icons/ri"
-import {BiBellMinus} from "react-icons/bi"
-import {AiOutlineBarcode} from "react-icons/ai"
 import {DiCodepen} from "react-icons/di"
+
 import {FaRegMoneyBillAlt} from "react-icons/fa"
 import {CiMoneyBill} from "react-icons/ci"
 import {TbBrandBitbucket} from "react-icons/tb"
@@ -39,6 +22,7 @@ import {MdOutlineCategory} from "react-icons/md"
 import {FaBuilding} from "react-icons/fa"
 import {TbReportAnalytics} from "react-icons/tb"
 import { FaTools } from "react-icons/fa";
+
 export const v = {
   iconoreportes : TbReportAnalytics,
   iconoempresa:FaBuilding,
