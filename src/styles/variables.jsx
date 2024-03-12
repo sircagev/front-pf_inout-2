@@ -14,13 +14,6 @@ import { SlGraph } from "react-icons/sl";
 import { AiOutlineCalculator, AiOutlineBarcode } from "react-icons/ai";
 import {GrFormPrevious,GrCaretNext} from "react-icons/gr"
 import {DiCodepen} from "react-icons/di"
-
-import {FaRegMoneyBillAlt} from "react-icons/fa"
-import {CiMoneyBill} from "react-icons/ci"
-import {TbBrandBitbucket} from "react-icons/tb"
-import {MdOutlineCategory} from "react-icons/md"
-import {FaBuilding} from "react-icons/fa"
-import {TbReportAnalytics} from "react-icons/tb"
 import { FaTools } from "react-icons/fa";
 
 export const v = {
