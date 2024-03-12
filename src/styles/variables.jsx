@@ -38,6 +38,7 @@ import {TbBrandBitbucket} from "react-icons/tb"
 import {MdOutlineCategory} from "react-icons/md"
 import {FaBuilding} from "react-icons/fa"
 import {TbReportAnalytics} from "react-icons/tb"
+import { FaTools } from "react-icons/fa";
 export const v = {
   iconoreportes : TbReportAnalytics,
   iconoempresa:FaBuilding,
@@ -89,6 +90,7 @@ export const v = {
   agregar: CgMathPlus,
   iconosupabase: TbBrandSupabase,
   iconoreact: FaReact,
+  iconoElement: FaTools, 
   flechaabajolarga: BsArrowDown,
   flechaarribalarga: BsArrowUpShort,
   balance: FaBalanceScale,
