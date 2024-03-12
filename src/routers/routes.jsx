@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
-import { Home, Admin, Configuracion, Kardex, Reportes } from "../index";
+import { Home, Admin, Configuracion, Kardex, Reportes, Usuarios } from "../index";
+
 
 export function MyRoutes() {
   return ( 
@@ -9,6 +10,7 @@ export function MyRoutes() {
         <Route path="/configurar" element={<Configuracion />} />
         <Route path="/kardex" element={<Kardex />} />
         <Route path="/reportes" element={<Reportes />} />
+        <Route path="/usuario" element={<Usuarios />} />
       </Routes>
     
       
