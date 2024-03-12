@@ -46,6 +46,11 @@ export const LinksArray = [
     icon: <v.iconoreportes />,
     to: "/reportes",
   },
+  {
+    label: "Usuarios",
+    icon: <AiOutlineSetting />,
+    to: "/usuario",
+  },
  
 ];
 export const SecondarylinksArray = [
@@ -54,6 +59,7 @@ export const SecondarylinksArray = [
     icon: <AiOutlineSetting />,
     to: "/configurar",
   },
+ 
 
 ];
 //temas
