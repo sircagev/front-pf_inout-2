@@ -37,8 +37,8 @@ export const LinksArray = [
     to: "/",
   },
   {
-    label: "Kardex",
-    icon: <v.iconocategorias />,
+    label: "Elementos",
+    icon: <v.iconoElement />,
     to: "/kardex",
   },
   {

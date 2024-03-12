@@ -3,7 +3,7 @@ import styled from "styled-components";
 export function KardexTemplate() {
   return (
     <Container>
-      <h1>Kardex template desde </h1>
+      <h1>Estamos en Elementos</h1>
     </Container>
   );
 }
