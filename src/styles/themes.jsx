@@ -22,7 +22,7 @@ export const Light ={
     bg3: "#fff",
     primary: "rgb(52, 131, 235)",
     bg4:"#eaeaea",
-    bg5:"#2cbf0b", //cambia el color de fondo de la fuente 
+    bg5:"yellow", //cambia el color de fondo de la fuente 
     bgtotal:"#EDF3FB",
     bgtgderecha:"#eeeeee",
     colorToggle:"#F9743B",
